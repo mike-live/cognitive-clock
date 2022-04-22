@@ -10,10 +10,10 @@ We introduce model of Cognitive Clock that estimates age of an individual based 
 The detailed description can be found in the supplementary materials of the paper.
 
 Scheme of the campimetry test:
-![campimetry](/images/campimetry_test_scheme.pdf "Campimetry")
+![campimetry](/images/campimetry_test_scheme.svg "Campimetry")
 
 Scheme of the sensomotor test:
-![sensomotor](/images/sensomotor_test_scheme.pdf "Sensomotor")
+![sensomotor](/images/sensomotor_test_scheme.svg "Sensomotor")
 
 ## ApWay platform
 
